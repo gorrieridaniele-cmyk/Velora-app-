@@ -1,0 +1,6 @@
+{
+  "name": "VELORA — Cucina d'Autore | Fine Dining Firenze",
+  "description": "Sito ufficiale di VELORA a Palazzo Serlupi, Firenze. Cucina toscana contemporanea d'autore della Chef Elena Vieri. Menu degustazione, cantina storica e prenotazioni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

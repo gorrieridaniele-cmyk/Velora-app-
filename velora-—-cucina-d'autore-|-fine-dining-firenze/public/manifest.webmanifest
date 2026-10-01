@@ -1,0 +1,47 @@
+{
+  "name": "VELORA — Cucina d'Autore Firenze",
+  "short_name": "VELORA",
+  "description": "Sito ufficiale di VELORA a Palazzo Serlupi, Firenze. Cucina toscana contemporanea d'autore della Chef Elena Vieri.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#1E1D1B",
+  "icons": [
+    {
+      "src": "/src/assets/images/hero_dining_room_1790846106219.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/src/assets/images/hero_dining_room_1790846106219.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Prenota un Tavolo",
+      "short_name": "Prenota",
+      "description": "Richiedi un tavolo a Palazzo Serlupi",
+      "url": "/#prenotazioni"
+    },
+    {
+      "name": "Menu Degustazione",
+      "short_name": "Menu",
+      "description": "Scopri i percorsi degustazione della Chef Elena Vieri",
+      "url": "/#menu"
+    },
+    {
+      "name": "Cantina & Sommelier",
+      "short_name": "Cantina",
+      "description": "Esplora le selezioni enologiche di Marco Valeri",
+      "url": "/#cantina"
+    },
+    {
+      "name": "Concierge Firenze",
+      "short_name": "Concierge",
+      "description": "Itinerari d'arte e botteghe segrete a Firenze",
+      "url": "/#concierge"
+    }
+  ]
+}
